@@ -1,0 +1,2 @@
+c:\users\aminutella\documents\visual studio 2015\Projects\ProvaGitCSharp\ProvaGitCSharp\bin\Debug\ProvaGitCSharp.exe.config
+C:\Progetti\provaGit\provaDaniele\ProvaGitCSharp\bin\Debug\ProvaGitCSharp.exe.config
